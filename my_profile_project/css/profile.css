@@ -1,0 +1,135 @@
+body {
+
+  background: url(
+    "http://1.bp.blogspot.com/-0VJGXKHla3A/UbO79H2Py3I/AAAAAAAADII/73dPTZ9zqT0/s320/GIF+Animated+Wallpaper-756661.jpg");
+
+  color:white;
+  font-family: "Helvetica Neue", HelveticaNeue, Arial, sans-serif;
+  font-weight: {TitleFontWeight};
+}
+
+#static_banner {
+  position: fixed;
+  top: 94.5%;
+
+}
+
+.lin {
+  height: 35px;
+  width: 350px;
+  background-color: white;
+}
+
+
+
+
+
+
+#banner {
+  background: url("http://orig09.deviantart.net/7db2/f/2014/139/2/8/_cover__exo_we_are_one_by_zitakakenzy-d7ix89s.jpg")no-repeat;
+  background-size: contain;
+  background-size: 1500px 350px;
+
+}
+h1 {
+  font-size: large;
+  color: transparent;
+}
+
+
+div {
+  border: 0px solid black;
+  padding: 20px;
+  margin-left: 50px;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+
+}
+#shows {
+  padding-bottom: 400px;
+  text-align: left;
+}
+#left {
+  margin-left: 42%;
+  margin-top: 200px;
+  padding: none;
+  border-radius: 100px;
+  background: url("http://s3.amazonaws.com/giphygifs/media/uH7JevzEbPl1m/giphy.gif") no-repeat;
+  background-position: left top;
+
+  width: 200px;
+  height: 140px;
+
+}
+
+
+
+table, th, td {
+   border: 1px solid white;
+}
+
+
+#sec {
+  float: right;
+  position: fixed;
+  padding-top: 14px;
+}
+
+#styled-select {
+  width: 300px;
+  font-size: large;
+  padding: 10px 5px;
+
+}
+
+
+
+#Table {
+  padding-top: 50px;
+  padding-bottom: 35px;
+}
+
+#bts {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#gif {
+
+  border: 0px solid black;
+  padding-top: 380px;
+  padding-bottom: 380px;
+  margin-left: 50px;
+  margin: auto;
+  text-align: center;
+  background: url("http://fc07.deviantart.net/fs70/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg")
+
+}
+
+.shows {
+  position: absolute;
+  letter-spacing: 1px;
+  list-style: none;
+  color: black;
+}
+
+.show_img {
+  display: inline;
+  margin-left: 8px;
+  visibility: hidden;
+}
+
+.shows li:hover .show_img {
+  visibility: visible;
+}
+
+
+/*
+
+#browser { width: 100px;
+  white-space: nowrap;
+  display: inline-block;
+  float:left;
+ }*/
